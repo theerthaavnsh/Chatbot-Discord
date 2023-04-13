@@ -1,0 +1,10 @@
+Please write me the code for a Discord bot that reads messages it is tagged in, sends the contents of the message to the 'gpt-3.5-turbo' model on the OpenAI API (some sample code for the format for this below), and returns the model's completion.
+
+GENERAL INSTRUCTIONS:
+1. Import required libraries
+ 2. Set up Discord bot and OpenAI API
+ 3. Create on_message event for Discord bot
+ 4. Check if the bot is mentioned in the message
+ 5. Extract message content and send it to OpenAI API as a chat message
+ 6. Get OpenAI API response, extract completion
+ 7. Send completion as a message to the Discord channel

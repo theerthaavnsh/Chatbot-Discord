@@ -1,1 +1,0 @@
-Please write me the code for a Discord bot that reads messages it is tagged in, sends the contents of the message to the 'gpt-3.5-turbo' model on the OpenAI API (some sample code for the format for this below), and returns the model's completion.
