@@ -1,0 +1,14 @@
+To add the bot to your Discord server, follow these steps:
+
+1. Go to the Discord Developer Portal: https://discord.com/developers/applications
+2. Log in with your Discord account if not already logged in.
+3. Click on your application.
+4. In the application settings page, navigate to the "OAuth2" section on the left menu.
+5. Scroll down to the "Scopes" section and check the "bot" option.
+6. A URL will be generated in the "Generated URL" textbox below. Copy this URL.
+7. Open a new browser tab, paste the copied URL into the address bar, and press Enter.
+8. You will be prompted to select a server to add the bot to. Choose the desired server from the dropdown and click "Continue".
+9. Grant the necessary permissions to the bot. For your current use case, you can grant the "Read Message Content" and "Send Messages" permissions. You can do this by going to the "Bot Permissions" section in the OAuth2 page, and checking the corresponding boxes.
+10. Click "Authorize" and complete the verification, if prompted.
+
+Your bot should now be added to the server. Make sure your bot script is running, and the bot will be able to read and respond to messages in your server.
