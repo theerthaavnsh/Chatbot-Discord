@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Set up Discord bot
 TOKEN ="MTA5NjAzOTYzMTkxNDUzNzA4MA.G9dJEI.508WGlJTGkTZdbztyCee0t7p2kBoVVnvnRBUP0"
